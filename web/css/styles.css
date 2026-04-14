@@ -157,7 +157,27 @@ header h2 {
 }
 
 /* ----------------------------------------------------------------
-   Chart
+   3D Brain-map canvas
+   ---------------------------------------------------------------- */
+
+/*
+ * The Three.js canvas fills the entire viewport and sits behind the HUD
+ * and permission overlay. `touch-action: none` is essential so that
+ * touch gestures on the canvas don't trigger page scroll/zoom — the
+ * brain-map reads them instead for orbit/pick.
+ */
+#brain-canvas {
+    position: fixed;
+    inset: 0;
+    width: 100vw;
+    height: 100vh;
+    display: block;
+    touch-action: none;
+    z-index: 1;
+}
+
+/* ----------------------------------------------------------------
+   Chart (legacy — no longer rendered; cleanup pending)
    ---------------------------------------------------------------- */
 
 #chart-container {

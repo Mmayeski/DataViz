@@ -1,0 +1,2472 @@
+{
+  "version": 1,
+  "generatedAt": "2026-04-14T05:13:29.069Z",
+  "isSample": true,
+  "featureSpec": {
+    "handcraftedDim": 70,
+    "embeddingDim": 1024,
+    "k": 8
+  },
+  "songs": [
+    {
+      "id": "sng_0001",
+      "title": "Glass Horizon",
+      "artist": "Phantom Loop",
+      "durationSec": 228.2,
+      "audioUrl": "audio/sng_0001.mp3",
+      "position": [
+        0.369,
+        0.2115,
+        -0.1982
+      ],
+      "tempoBpm": 94,
+      "features": {
+        "centroidMean": 3079.8,
+        "rolloffMean": 5092.9,
+        "rmsMean": 0.2374,
+        "zcrMean": 0.2231
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0005",
+            "score": 0.92
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.85
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.797
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.745
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.677
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.616
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.566
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.516
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0009",
+            "score": 0.944
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.879
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.824
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.768
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.698
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.632
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.567
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.501
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0014",
+            "score": 0.945
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.89
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.824
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.732
+          },
+          {
+            "id": "sng_0010",
+            "score": 0.707
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.615
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.573
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.51
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0002",
+      "title": "Midnight Cartography",
+      "artist": "Sable Motion",
+      "durationSec": 205,
+      "audioUrl": "audio/sng_0002.mp3",
+      "position": [
+        -0.45,
+        0.6292,
+        0.3474
+      ],
+      "tempoBpm": 105,
+      "features": {
+        "centroidMean": 2091.8,
+        "rolloffMean": 6002.9,
+        "rmsMean": 0.256,
+        "zcrMean": 0.1721
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0013",
+            "score": 0.948
+          },
+          {
+            "id": "sng_0010",
+            "score": 0.879
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.803
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.743
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.688
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.611
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.589
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.514
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0001",
+            "score": 0.923
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.868
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.808
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.731
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.671
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.619
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.578
+          },
+          {
+            "id": "sng_0012",
+            "score": 0.505
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0004",
+            "score": 0.925
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.859
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.8
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.741
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.703
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.616
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.554
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.508
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0003",
+      "title": "Velvet Current",
+      "artist": "Kite & Low",
+      "durationSec": 120.7,
+      "audioUrl": "audio/sng_0003.mp3",
+      "position": [
+        -0.0175,
+        -0.1976,
+        0.0307
+      ],
+      "tempoBpm": 127,
+      "features": {
+        "centroidMean": 1594.6,
+        "rolloffMean": 5067.8,
+        "rmsMean": 0.0685,
+        "zcrMean": 0.0871
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0011",
+            "score": 0.947
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.889
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.819
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.742
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.699
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.616
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.565
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.494
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0020",
+            "score": 0.949
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.876
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.82
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.761
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.67
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.627
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.556
+          },
+          {
+            "id": "sng_0010",
+            "score": 0.516
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0017",
+            "score": 0.928
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.863
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.822
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.739
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.7
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.645
+          },
+          {
+            "id": "sng_0010",
+            "score": 0.564
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.506
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0004",
+      "title": "Paperwork Dreams",
+      "artist": "The Slow Index",
+      "durationSec": 261,
+      "audioUrl": "audio/sng_0004.mp3",
+      "position": [
+        0.4182,
+        -0.2837,
+        -0.4962
+      ],
+      "tempoBpm": 147,
+      "features": {
+        "centroidMean": 2963.2,
+        "rolloffMean": 7236.1,
+        "rmsMean": 0.1458,
+        "zcrMean": 0.14
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0018",
+            "score": 0.93
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.882
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.796
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.767
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.705
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.61
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.582
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.511
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0020",
+            "score": 0.933
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.88
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.81
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.768
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.683
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.647
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.554
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.499
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0009",
+            "score": 0.939
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.865
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.794
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.752
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.708
+          },
+          {
+            "id": "sng_0012",
+            "score": 0.627
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.57
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.512
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0005",
+      "title": "Static Garden",
+      "artist": "Marquee Hum",
+      "durationSec": 126.7,
+      "audioUrl": "audio/sng_0005.mp3",
+      "position": [
+        -0.5692,
+        0.434,
+        0.258
+      ],
+      "tempoBpm": 100,
+      "features": {
+        "centroidMean": 3437.1,
+        "rolloffMean": 4838,
+        "rmsMean": 0.1411,
+        "zcrMean": 0.1977
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0016",
+            "score": 0.911
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.851
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.791
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.738
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.672
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.618
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.584
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.526
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0008",
+            "score": 0.925
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.875
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.805
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.731
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.694
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.618
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.56
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.529
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0019",
+            "score": 0.933
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.866
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.797
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.754
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.686
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.643
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.551
+          },
+          {
+            "id": "sng_0010",
+            "score": 0.523
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0006",
+      "title": "Soft Machinery",
+      "artist": "Phantom Loop",
+      "durationSec": 274.6,
+      "audioUrl": "audio/sng_0006.mp3",
+      "position": [
+        0.0048,
+        -0.5775,
+        0.1705
+      ],
+      "tempoBpm": 103,
+      "features": {
+        "centroidMean": 1724.1,
+        "rolloffMean": 6639.4,
+        "rmsMean": 0.2542,
+        "zcrMean": 0.1886
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0007",
+            "score": 0.934
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.857
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.816
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.762
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.68
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.624
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.588
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.505
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0001",
+            "score": 0.911
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.854
+          },
+          {
+            "id": "sng_0012",
+            "score": 0.802
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.756
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.674
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.63
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.553
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.521
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0004",
+            "score": 0.912
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.865
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.817
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.75
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.695
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.632
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.583
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.507
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0007",
+      "title": "Lunar Drift",
+      "artist": "Sable Motion",
+      "durationSec": 287,
+      "audioUrl": "audio/sng_0007.mp3",
+      "position": [
+        0.1528,
+        0.2662,
+        -0.3413
+      ],
+      "tempoBpm": 155,
+      "features": {
+        "centroidMean": 1911.9,
+        "rolloffMean": 4443.8,
+        "rmsMean": 0.0548,
+        "zcrMean": 0.1221
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0004",
+            "score": 0.949
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.885
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.804
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.759
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.708
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.632
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.562
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.525
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0009",
+            "score": 0.926
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.86
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.792
+          },
+          {
+            "id": "sng_0012",
+            "score": 0.754
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.695
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.644
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.554
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.507
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0012",
+            "score": 0.929
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.872
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.817
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.755
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.697
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.624
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.555
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.495
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0008",
+      "title": "Neon Orchard",
+      "artist": "Kite & Low",
+      "durationSec": 206.7,
+      "audioUrl": "audio/sng_0008.mp3",
+      "position": [
+        -0.2328,
+        0.6397,
+        -0.0535
+      ],
+      "tempoBpm": 138,
+      "features": {
+        "centroidMean": 4304.6,
+        "rolloffMean": 5113,
+        "rmsMean": 0.262,
+        "zcrMean": 0.0859
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0016",
+            "score": 0.935
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.85
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.801
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.752
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.696
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.62
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.578
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.507
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0019",
+            "score": 0.949
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.874
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.828
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.755
+          },
+          {
+            "id": "sng_0012",
+            "score": 0.691
+          },
+          {
+            "id": "sng_0010",
+            "score": 0.634
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.589
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.492
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0009",
+            "score": 0.941
+          },
+          {
+            "id": "sng_0010",
+            "score": 0.885
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.83
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.732
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.683
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.625
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.586
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.505
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0009",
+      "title": "Ceiling Ocean",
+      "artist": "The Slow Index",
+      "durationSec": 213.7,
+      "audioUrl": "audio/sng_0009.mp3",
+      "position": [
+        0.1931,
+        -0.6276,
+        0.5974
+      ],
+      "tempoBpm": 125,
+      "features": {
+        "centroidMean": 4248.4,
+        "rolloffMean": 5736,
+        "rmsMean": 0.2235,
+        "zcrMean": 0.1174
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0007",
+            "score": 0.912
+          },
+          {
+            "id": "sng_0012",
+            "score": 0.852
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.799
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.764
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.696
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.639
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.587
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.504
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0018",
+            "score": 0.928
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.873
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.814
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.756
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.693
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.621
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.587
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.505
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0010",
+            "score": 0.915
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.879
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.81
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.738
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.696
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.621
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.576
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.492
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0010",
+      "title": "Cobalt Hours",
+      "artist": "Marquee Hum",
+      "durationSec": 227.3,
+      "audioUrl": "audio/sng_0010.mp3",
+      "position": [
+        0.2938,
+        0.1376,
+        -0.4229
+      ],
+      "tempoBpm": 116,
+      "features": {
+        "centroidMean": 4029.4,
+        "rolloffMean": 6780.3,
+        "rmsMean": 0.3482,
+        "zcrMean": 0.228
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0018",
+            "score": 0.932
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.877
+          },
+          {
+            "id": "sng_0012",
+            "score": 0.804
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.746
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.698
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.619
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.555
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.5
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0001",
+            "score": 0.926
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.87
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.814
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.736
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.7
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.648
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.566
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.529
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0017",
+            "score": 0.914
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.87
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.82
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.745
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.685
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.639
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.554
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.498
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0011",
+      "title": "Hemisphere Lull",
+      "artist": "Phantom Loop",
+      "durationSec": 197.7,
+      "audioUrl": "audio/sng_0011.mp3",
+      "position": [
+        -0.2729,
+        0.2776,
+        -0.0395
+      ],
+      "tempoBpm": 136,
+      "features": {
+        "centroidMean": 2439.9,
+        "rolloffMean": 7143.8,
+        "rmsMean": 0.3214,
+        "zcrMean": 0.0687
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0005",
+            "score": 0.935
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.869
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.828
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.758
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.671
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.612
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.567
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.509
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0014",
+            "score": 0.932
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.866
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.816
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.75
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.691
+          },
+          {
+            "id": "sng_0012",
+            "score": 0.63
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.564
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.521
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0009",
+            "score": 0.928
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.869
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.796
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.731
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.703
+          },
+          {
+            "id": "sng_0010",
+            "score": 0.65
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.557
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.498
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0012",
+      "title": "Copper Sleep",
+      "artist": "Sable Motion",
+      "durationSec": 205.6,
+      "audioUrl": "audio/sng_0012.mp3",
+      "position": [
+        0.1932,
+        -0.622,
+        0.5836
+      ],
+      "tempoBpm": 94,
+      "features": {
+        "centroidMean": 3628.3,
+        "rolloffMean": 6798.8,
+        "rmsMean": 0.117,
+        "zcrMean": 0.1326
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0016",
+            "score": 0.942
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.888
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.81
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.745
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.699
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.611
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.551
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.501
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0001",
+            "score": 0.948
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.875
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.822
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.74
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.702
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.623
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.581
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.499
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0019",
+            "score": 0.922
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.861
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.82
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.76
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.694
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.641
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.552
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.524
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0013",
+      "title": "Vapor Archive",
+      "artist": "Kite & Low",
+      "durationSec": 149.4,
+      "audioUrl": "audio/sng_0013.mp3",
+      "position": [
+        0.4928,
+        -0.0984,
+        -0.4758
+      ],
+      "tempoBpm": 130,
+      "features": {
+        "centroidMean": 4160.6,
+        "rolloffMean": 5305.5,
+        "rmsMean": 0.2877,
+        "zcrMean": 0.1286
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0012",
+            "score": 0.915
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.882
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.827
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.769
+          },
+          {
+            "id": "sng_0010",
+            "score": 0.702
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.64
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.552
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.494
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0003",
+            "score": 0.911
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.877
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.821
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.761
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.691
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.634
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.576
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.509
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0007",
+            "score": 0.917
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.869
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.805
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.756
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.684
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.627
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.58
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.51
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0014",
+      "title": "Tidal Room",
+      "artist": "The Slow Index",
+      "durationSec": 143.7,
+      "audioUrl": "audio/sng_0014.mp3",
+      "position": [
+        -0.0818,
+        0.3218,
+        -0.0943
+      ],
+      "tempoBpm": 139,
+      "features": {
+        "centroidMean": 3405.8,
+        "rolloffMean": 7503.7,
+        "rmsMean": 0.3224,
+        "zcrMean": 0.0918
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0010",
+            "score": 0.945
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.883
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.797
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.761
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.688
+          },
+          {
+            "id": "sng_0012",
+            "score": 0.634
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.559
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.507
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0015",
+            "score": 0.938
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.866
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.795
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.757
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.693
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.61
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.555
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.501
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0008",
+            "score": 0.921
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.856
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.817
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.763
+          },
+          {
+            "id": "sng_0012",
+            "score": 0.706
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.63
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.581
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.499
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0015",
+      "title": "Chalk Circuitry",
+      "artist": "Marquee Hum",
+      "durationSec": 228.7,
+      "audioUrl": "audio/sng_0015.mp3",
+      "position": [
+        -0.0065,
+        -0.5896,
+        0.0285
+      ],
+      "tempoBpm": 136,
+      "features": {
+        "centroidMean": 3625.1,
+        "rolloffMean": 5166,
+        "rmsMean": 0.1326,
+        "zcrMean": 0.1173
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0014",
+            "score": 0.911
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.871
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.811
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.755
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.707
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.61
+          },
+          {
+            "id": "sng_0010",
+            "score": 0.567
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.527
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0014",
+            "score": 0.927
+          },
+          {
+            "id": "sng_0010",
+            "score": 0.85
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.812
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.753
+          },
+          {
+            "id": "sng_0012",
+            "score": 0.693
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.646
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.558
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.503
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0011",
+            "score": 0.935
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.87
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.791
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.739
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.692
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.648
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.584
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.526
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0016",
+      "title": "Afterimage",
+      "artist": "Phantom Loop",
+      "durationSec": 125.2,
+      "audioUrl": "audio/sng_0016.mp3",
+      "position": [
+        0.2325,
+        0.2961,
+        -0.2566
+      ],
+      "tempoBpm": 159,
+      "features": {
+        "centroidMean": 1991.6,
+        "rolloffMean": 4683.3,
+        "rmsMean": 0.2183,
+        "zcrMean": 0.1085
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0003",
+            "score": 0.932
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.884
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.795
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.732
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.687
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.612
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.579
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.523
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0015",
+            "score": 0.931
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.887
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.823
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.733
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.693
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.629
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.564
+          },
+          {
+            "id": "sng_0010",
+            "score": 0.492
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0011",
+            "score": 0.948
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.876
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.795
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.748
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.701
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.649
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.558
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.492
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0017",
+      "title": "Long Daylight",
+      "artist": "Sable Motion",
+      "durationSec": 191,
+      "audioUrl": "audio/sng_0017.mp3",
+      "position": [
+        -0.3394,
+        0.351,
+        0.3117
+      ],
+      "tempoBpm": 112,
+      "features": {
+        "centroidMean": 2508.4,
+        "rolloffMean": 7582.6,
+        "rmsMean": 0.1482,
+        "zcrMean": 0.1491
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0014",
+            "score": 0.914
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.869
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.802
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.765
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.674
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.63
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.584
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.498
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0008",
+            "score": 0.925
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.866
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.802
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.742
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.709
+          },
+          {
+            "id": "sng_0012",
+            "score": 0.637
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.571
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.502
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0015",
+            "score": 0.947
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.852
+          },
+          {
+            "id": "sng_0012",
+            "score": 0.813
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.764
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.683
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.634
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.577
+          },
+          {
+            "id": "sng_0010",
+            "score": 0.523
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0018",
+      "title": "Mercury Pulse",
+      "artist": "Kite & Low",
+      "durationSec": 230,
+      "audioUrl": "audio/sng_0018.mp3",
+      "position": [
+        0.0278,
+        -0.3464,
+        0.1412
+      ],
+      "tempoBpm": 106,
+      "features": {
+        "centroidMean": 2396.3,
+        "rolloffMean": 5282.3,
+        "rmsMean": 0.2508,
+        "zcrMean": 0.0942
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0020",
+            "score": 0.928
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.878
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.826
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.737
+          },
+          {
+            "id": "sng_0009",
+            "score": 0.671
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.649
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.561
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.505
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0008",
+            "score": 0.948
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.859
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.82
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.76
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.7
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.628
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.568
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.491
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0006",
+            "score": 0.947
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.857
+          },
+          {
+            "id": "sng_0015",
+            "score": 0.813
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.765
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.672
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.61
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.563
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.501
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0019",
+      "title": "Warm Static",
+      "artist": "The Slow Index",
+      "durationSec": 150.5,
+      "audioUrl": "audio/sng_0019.mp3",
+      "position": [
+        0.517,
+        -0.1115,
+        -0.5251
+      ],
+      "tempoBpm": 105,
+      "features": {
+        "centroidMean": 1627.2,
+        "rolloffMean": 6310.1,
+        "rmsMean": 0.1123,
+        "zcrMean": 0.1463
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0003",
+            "score": 0.942
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.864
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.794
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.759
+          },
+          {
+            "id": "sng_0010",
+            "score": 0.688
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.637
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.565
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.527
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0007",
+            "score": 0.945
+          },
+          {
+            "id": "sng_0011",
+            "score": 0.858
+          },
+          {
+            "id": "sng_0017",
+            "score": 0.828
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.753
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.695
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.626
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.577
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.527
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0006",
+            "score": 0.932
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.879
+          },
+          {
+            "id": "sng_0005",
+            "score": 0.81
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.756
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.674
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.639
+          },
+          {
+            "id": "sng_0020",
+            "score": 0.579
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.498
+          }
+        ]
+      }
+    },
+    {
+      "id": "sng_0020",
+      "title": "Threshold Song",
+      "artist": "Marquee Hum",
+      "durationSec": 188.4,
+      "audioUrl": "audio/sng_0020.mp3",
+      "position": [
+        -0.1728,
+        0.6476,
+        0.387
+      ],
+      "tempoBpm": 115,
+      "features": {
+        "centroidMean": 1962.4,
+        "rolloffMean": 7470.5,
+        "rmsMean": 0.2077,
+        "zcrMean": 0.2181
+      },
+      "neighbors": {
+        "spectrum": [
+          {
+            "id": "sng_0007",
+            "score": 0.914
+          },
+          {
+            "id": "sng_0010",
+            "score": 0.869
+          },
+          {
+            "id": "sng_0001",
+            "score": 0.803
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.737
+          },
+          {
+            "id": "sng_0012",
+            "score": 0.684
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.622
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.572
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.514
+          }
+        ],
+        "semantic": [
+          {
+            "id": "sng_0008",
+            "score": 0.914
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.861
+          },
+          {
+            "id": "sng_0018",
+            "score": 0.804
+          },
+          {
+            "id": "sng_0012",
+            "score": 0.769
+          },
+          {
+            "id": "sng_0013",
+            "score": 0.671
+          },
+          {
+            "id": "sng_0019",
+            "score": 0.643
+          },
+          {
+            "id": "sng_0003",
+            "score": 0.588
+          },
+          {
+            "id": "sng_0004",
+            "score": 0.523
+          }
+        ],
+        "combined": [
+          {
+            "id": "sng_0003",
+            "score": 0.928
+          },
+          {
+            "id": "sng_0002",
+            "score": 0.878
+          },
+          {
+            "id": "sng_0006",
+            "score": 0.808
+          },
+          {
+            "id": "sng_0012",
+            "score": 0.76
+          },
+          {
+            "id": "sng_0014",
+            "score": 0.694
+          },
+          {
+            "id": "sng_0016",
+            "score": 0.643
+          },
+          {
+            "id": "sng_0008",
+            "score": 0.56
+          },
+          {
+            "id": "sng_0007",
+            "score": 0.497
+          }
+        ]
+      }
+    }
+  ]
+}
