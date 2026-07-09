@@ -1,0 +1,131 @@
+@font-face {
+  font-family: 'Architects Daughter';
+  src: url('/fonts/architects-daughter.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Karla';
+  src: url('/fonts/karla-400.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Karla';
+  src: url('/fonts/karla-500.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Karla';
+  src: url('/fonts/karla-700.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Spline Sans Mono';
+  src: url('/fonts/spline-mono-400.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Spline Sans Mono';
+  src: url('/fonts/spline-mono-500.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --paper: #F7F3E8;
+  --ink: #22271F;
+  --ink-faint: rgba(34, 39, 31, 0.35);
+  --ink-faint-2: rgba(34, 39, 31, 0.16);
+
+  --gas: #C98A3D;
+  --coal: #4A4A48;
+  --nuclear: #7D6B9E;
+  --wind: #7FA6B5;
+  --solar: #E0A526;
+  --hydro: #5B7F9E;
+  --other: #8C9B7A;
+  --stamp: #A3452F;
+
+  --font-display: 'Architects Daughter', 'Segoe Print', cursive;
+  --font-mono: 'Spline Sans Mono', ui-monospace, 'SF Mono', Menlo, monospace;
+  --font-body: 'Karla', system-ui, -apple-system, sans-serif;
+
+  --sheet-radius: 18px;
+  --motion-fast: 250ms;
+  --motion-medium: 400ms;
+  --motion-slow: 1200ms;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--paper);
+  color: var(--ink);
+  overscroll-behavior: none;
+}
+
+body {
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  min-height: 100dvh;
+  position: relative;
+}
+
+#root {
+  min-height: 100dvh;
+  position: relative;
+  isolation: isolate;
+}
+
+/* Baked-once paper grain, applied as a fixed overlay so it never repaints on scroll/zoom. */
+.paper-grain {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0.5;
+  mix-blend-mode: multiply;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+h1, h2, h3, p {
+  margin: 0;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
